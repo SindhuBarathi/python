@@ -1,4 +1,4 @@
-a=6
-b=3
-c=a/b
+a=50
+b=2
+c=a%b
 print(c)
